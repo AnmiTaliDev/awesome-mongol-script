@@ -54,6 +54,7 @@ Open-source fonts supporting Traditional Mongolian Script.
 
 Development libraries and packages for working with Mongolian Script.
 
+- [mongol-library](https://github.com/suragch/mongol-library) - Android UI components for vertical Mongolian text.
 - [mongol](https://github.com/suragch/mongol) - Collection of Flutter widgets for displaying traditional Mongolian vertical text.
 
 ## Text Editors
