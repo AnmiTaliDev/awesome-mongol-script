@@ -35,26 +35,6 @@ Please ensure your pull request adheres to the following guidelines:
 5. Add a title and description explaining why the project is awesome
 6. Make sure the tests pass (links are valid, formatting is correct)
 
-### Multilingual Support
-
-This repository maintains README files in multiple languages:
-- [README.md](README.md) - English (main)
-- [README_mn.md](README_mn.md) - Mongolian (Cyrillic)
-- [README_kk.md](README_kk.md) - Kazakh
-- [README_ru.md](README_ru.md) - Russian
-- [README_mn_script.md](README_mn_script.md) - Mongolian Script
-
-**Required:** When adding new entries, you MUST update at least [README.md](README.md) (English).
-
-**Recommended:** It is highly encouraged to also update the other language versions to keep all documentation in sync. If you're not comfortable translating to all languages, that's okay - you can:
-- Update only the languages you're fluent in
-- Open a separate issue using the "Translation Request" template for the remaining languages
-- Other community members can help with translations later
-
-Translations help make this resource accessible to more people in the Mongolian-speaking community!
-
-**How to request translations:** If you've added content but need help translating it to other languages, please [open a Translation Request issue](../../issues/new?template=translation_request.md) after your PR is merged.
-
 ### Quality Standards
 
 Your contribution should meet these quality standards:

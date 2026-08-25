@@ -34,19 +34,7 @@ Please confirm the following:
 - [ ] Updating existing entry
 - [ ] Fixing broken link
 - [ ] Improving documentation
-- [ ] Translation to other languages
 - [ ] Other (please describe):
-
-## Translation Status
-
-If you're adding or updating content, which README files have you updated?
-
-- [ ] README.md (English) - **Required**
-- [ ] README_mn.md (Mongolian Cyrillic) - Recommended
-- [ ] README_kk.md (Kazakh) - Recommended
-- [ ] README_ru.md (Russian) - Recommended
-- [ ] README_mn_script.md (Mongolian Script) - Recommended
-- [ ] I will open a translation request issue for the languages I didn't update
 
 ## Additional Notes
 

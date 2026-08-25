@@ -9,8 +9,6 @@
 
 > A curated list of awesome open-source projects, libraries, tools, and resources for Traditional Mongolian Script (ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ᠌).
 
-**Read this in other languages:** [English](README.md) | [Монгол (Кирилл)](README_mn.md) | [Қазақша](README_kk.md) | [Русский](README_ru.md) | [ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ᠌](README_mn_script.md)
-
 ## What is Traditional Mongolian Script?
 
 Traditional Mongolian Script (ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ᠌, Mongol bichig) is the classical and traditional writing system of the Mongolic languages. It has a history spanning over 800 years and is one of the few vertical scripts still in use today. The script is written vertically from top to bottom in columns that advance from left to right.
