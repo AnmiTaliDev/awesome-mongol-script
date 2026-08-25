@@ -36,8 +36,6 @@ Today, Traditional Mongolian Script is:
 
 Tools for converting between different scripts and encodings.
 
-- [gege-converter](https://github.com/gege-mn/gege-converter) - Mongolian Cyrillic to traditional Mongolian script converter with a Unicode-correct, dictionary-and-rules engine and no runtime dependencies.
-- [mongol_code](https://github.com/suragch/mongol_code) - Unicode conversion library for traditional Mongolian script.
 - [mongol_converter](https://github.com/suragch/mongol_converter) - A Cyrillic to Mongolian converter built with Flutter. The backend is hosted with PocketBase.
 
 ## Fonts
@@ -48,15 +46,14 @@ Open-source fonts supporting Traditional Mongolian Script.
 
 ## Input Methods
 
-- [paiza](https://github.com/hugohu789-droid/paiza) - Cross-platform vertical-script input method with a shared C++20 engine and native front-ends for Windows (TSF), macOS (InputMethodKit), and Linux (IBus).
+*No entries yet. See [contribution guidelines](CONTRIBUTING.md) to add input methods.*
 
 ## Libraries
 
 Development libraries and packages for working with Mongolian Script.
 
-- [mongol](https://github.com/suragch/mongol) - Collection of Flutter widgets for displaying traditional Mongolian vertical text.
 - [mongol-library](https://github.com/suragch/mongol-library) - Android UI components for vertical Mongolian text.
-- [mongol-norm](https://github.com/Satsrag/mongol-norm) - Shape-aware Unicode normalizer for Traditional Mongolian (Hudum) that ensures the same visible word always encodes the same way.
+- [mongol](https://github.com/suragch/mongol) - Collection of Flutter widgets for displaying traditional Mongolian vertical text.
 
 ## Text Editors
 
@@ -68,7 +65,7 @@ Development libraries and packages for working with Mongolian Script.
 
 ## Mobile Apps
 
-- [Chimee-iOS](https://github.com/suragch/Chimee-iOS) - Traditional vertical script Mongolian writing app for iOS.
+*No entries yet. See [contribution guidelines](CONTRIBUTING.md) to add mobile apps.*
 
 ## Web Tools
 
@@ -78,8 +75,7 @@ Development libraries and packages for working with Mongolian Script.
 
 Standards, specifications, and academic research related to Mongolian Script.
 
-- [mongol-bichig](https://github.com/gege-mn/mongol-bichig) - Canonical data and knowledge base for traditional Mongolian script, including the Hudum suffix registry, Classical romanization, and Unicode character classes.
-- [mongolian](https://github.com/lianghai/mongolian) - Public resources for improving the Mongolian script's text representation and shaping situation, covering fonts, keyboards, and OpenType.
+*No entries yet. See [contribution guidelines](CONTRIBUTING.md) to add research papers or standards.*
 
 ## Contributing
 
